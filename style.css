@@ -269,6 +269,7 @@ footer{
     font-size:24px;
     color:#22d3ee;
     transition:none;
+    display: inline-block;
 }
 
 .social-icons a:hover{
