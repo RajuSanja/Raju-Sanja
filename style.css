@@ -268,7 +268,7 @@ footer{
     margin:0 12px;
     font-size:24px;
     color:#22d3ee;
-    transition:0.3s;
+    transition:none;
 }
 
 .social-icons a:hover{
